@@ -1,0 +1,7 @@
+a= float (input ("enter value of a"))
+b = float (input ("enter value of b"))
+print ("the sum is", (a+b))
+print ("the diffrence is ", (a-b))
+print ("the multiple is ", (a*b))
+print ("the remainder is ", (a % b))
+print ("divison", (a//b))

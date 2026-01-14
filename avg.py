@@ -1,0 +1,6 @@
+a= float (input ("enter value of a"))
+b = float (input ("enter value of b"))
+c= float (input ("enter value of c"))
+d = float (input ("enter value of d"))
+e = float (input ("enter value of e"))
+print ("the avg is ", ((a+b+c+d+e)/5))
